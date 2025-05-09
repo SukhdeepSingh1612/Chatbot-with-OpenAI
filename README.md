@@ -1,5 +1,7 @@
 # 💬 OpenAI-Powered Q&A Chatbot
 
+### Deployed on Streamlit : https://chatbot-with-openai-aaufqomgpsux46pfwktn5a.streamlit.app/
+
 This is a simple, local chatbot application that leverages OpenAI's language models through user-provided API keys. It features a clean Streamlit interface where users can enter their OpenAI API key and select the desired model (e.g., `gpt-3.5-turbo`, `gpt-4`).
 
 ---
